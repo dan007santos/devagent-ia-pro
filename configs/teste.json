@@ -1,0 +1,10 @@
+{
+  "nome": "DevAgent Config",
+  "versao": "1.0",
+  "funcionalidades": [
+    "codigo",
+    "telegram",
+    "trading",
+    "imagens"
+  ]
+}
